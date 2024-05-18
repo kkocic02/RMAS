@@ -1,1 +1,2 @@
 # RMAS
+Aplikacija za surfere koja pokazuje lokacije s informacijama o talasima i vremnskim uslovima. Aplikacija bi sadrzala mapu sa surf lokacijama, opise kao što su visina talasa, jačina vetra, temperatura vode, prisustvo podvodnih stena i sl. Korisnicima bi bilo omogućeno deljenje fotografija i video snimaka surfanja na odabranoj lokaciji, što bi pomoglo drugim surferima da steknu bolji uvid u uslove na toj lokaciji. Na profilu bi se prikazivale aktivnosti korisnika, kao što su ocene i recenzije lokacija.
